@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 33e8f754aee95274482a0ebdac0c6ca4
+timeCreated: 1510906720
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: North Face
+  fontNames:
+  - North Face
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

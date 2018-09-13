@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d78d24c0cbfb6a440a5f2b26072e90d0
+timeCreated: 1510898040
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Quikhand
+  fontNames:
+  - Quikhand
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

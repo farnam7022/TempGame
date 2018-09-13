@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2316c98c496b40e4995b9200052bc74c
+timeCreated: 1510906720
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bro 4D Demo
+  fontNames:
+  - Bro 4D Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
